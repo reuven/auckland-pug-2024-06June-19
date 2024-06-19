@@ -1,10 +1,8 @@
-# Notebooks, files, and programs from "Python Fundamentals"
-
-This repo contains the Jupyter notebook + program files from my training for O'Reilly from June 13th, 2024.  It'll remain open, so you can review the material later on.
+This repo contains the Jupyter notebook + program files from my talk for the Auckland Python User Group on Wednesday, June 19th.  It'll remain open, so you can review the material later on.
 
 Enjoy!
 
-If you liked this training, you might also like:
+If you liked this session, you might also like:
 
 - My online courses offerings, at https://LernerPython.com/
 - Better developers, with new articles about Python every week: https://BetterDevelopersWeekly.com/
