@@ -10,7 +10,7 @@ If you liked this session, you might also like:
 - My YouTube channel: https://YouTube.com/reuvenlerner
 - My book, "Python Workout": https://PythonWorkout.com/
 - My book, "Pandas Workout": https://PandasWorkout.com/
-- "Bamboo Weekly," where I analyze data related to current events using Pandas: https://www.BambooWeekly.com/
+- "Bamboo Weekly," where I analyze data related to current events using Pandas: https://BambooWeekly.com/
 - LinkedIn, where I also post: https://linkedin.com/in/reuven
 
 And of course, you can read more about me at https://lerner.co.il/
